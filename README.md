@@ -1,5 +1,5 @@
 # Weather
-A weather web site project
+- A weather web site projct
 
 <br>
 
