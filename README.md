@@ -1,5 +1,5 @@
 # Weather
-- A weather web site projct.
+- weather web site projct.
 - use a real API
 
 <br>
